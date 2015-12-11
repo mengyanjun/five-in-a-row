@@ -100,7 +100,7 @@ BOOL CAboutDlg::OnInitDialog()
 		case VER_PLATFORM_WIN32_WINDOWS:
 			str = "Windows 95";
 			break;
-		case VER_PLATFORM_WIN32_NT:
+		case VER_PLATFORM_WIN32_NT:   
 			str = "Windows NT";
 			break;
 		default:
